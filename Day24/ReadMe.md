@@ -8,7 +8,7 @@
 *The cache is initialized with a positive capacity.*
 
 **Follow up:**
-Could you do both operations in O(1) time complexity?G
+Could you do both operations in O(1) time complexity?
 
 
 **Example 1:**
